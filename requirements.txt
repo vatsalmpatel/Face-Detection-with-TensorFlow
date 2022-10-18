@@ -1,0 +1,8 @@
+tensorflow
+matplotlib
+labelme
+albumentations
+matplotlib
+numpy
+pandas
+opencv-python

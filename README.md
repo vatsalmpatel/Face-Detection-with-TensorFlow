@@ -1,1 +1,3 @@
-# Face Detection
+# Face Detection 👽 with TensorFlow
+
+In this project, I worked upon creating a face detection appplication using TensorFlow. This application captures training images using your own webcam, saves them to a folder. Then you annotate those images using ****`labelme`****  library and use image augmentation using `albumentations` to augment those images and create more images for training. After this, I created a model using the `Keras Functional API` to create a model using `VGG16` model architecture. Finally, I used this pre-trained model to detect my face in real-time. 
